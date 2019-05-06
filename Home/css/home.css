@@ -1,0 +1,41 @@
+.box {
+    font-family:Helvetica;
+    font-size: 20px;
+    margin: 14% auto;
+    width: 380px;
+    padding: 50px;  
+    background-color: rgba(0, 204, 255, 0.397);
+    box-shadow: 5px 5px 5px #ffffff;
+    border-radius: 12px;  
+    opacity: 50%; 
+}
+.title {
+
+    text-align: center;
+    padding: 5px;
+    margin-left: -50px;
+    margin-right: -50px;
+    border-radius: 12px 12px 0px 0px; 
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+.box button{
+    display:block;
+    width: 200%;
+    padding:10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background:rgb(134, 177, 171);
+    color:#212121;
+    font-size: 20px;
+    border:0;
+    border-radius: 1px;
+    margin-left: 10%;
+}
+
+body {
+    background-image: url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
